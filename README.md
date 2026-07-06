@@ -130,7 +130,7 @@ Car-Price-Prediction/
 
 ## pair plot
 
-![pair plot]()
+![pair plot](https://github.com/teluguvijayaabhimanya-debug/Car-Price-Prediction/blob/main/pair%20plot.png?raw=true)
 
 ## correlation heatmap
 
